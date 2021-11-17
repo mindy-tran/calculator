@@ -1,5 +1,7 @@
 # A Calculator (or two)
 
+I included the completed code I did for the project as well as the files forked from UO CIS 212.
+
 In this project you will build a simple interactive calculator.  
 The calculator is limited to integers (no floating-point numbers).
 
